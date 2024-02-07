@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkaston_project=self.webpackChunkaston_project||[]).push([[664],{6664:(e,t,o)=>{o.r(t),o.d(t,{default:()=>r});var n=o(1087),s=o(8760),a=o(3537),c=o(184);function r(){return(0,c.jsx)(s.Am,{isNotFound:!0,children:(0,c.jsx)(n.OL,{to:a.RouteName.MAIN_PAGE,children:"Go back to the homepage"})})}}}]);
+//# sourceMappingURL=664.0b94fc09.chunk.js.map
